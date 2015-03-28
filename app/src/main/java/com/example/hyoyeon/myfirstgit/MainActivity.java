@@ -15,6 +15,8 @@ public class MainActivity extends ActionBarActivity {
 
         Integer abc = 0;
         Integer twb = 0;
+
+        int newint = 0;
     }
 
 
