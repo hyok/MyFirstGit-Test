@@ -17,6 +17,9 @@ public class MainActivity extends ActionBarActivity {
         Integer twb = 0;
 
         int newint = 0;
+        int newb = 0;
+
+        int merge;
     }
 
 
